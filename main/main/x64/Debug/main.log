@@ -1,0 +1,171 @@
+﻿  stdafx.cpp
+  Arc.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\arc.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CircleObject.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(94): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(97): warning C4305: '-=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(106): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\circleobject.cpp(107): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(291): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(295): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(299): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(373): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(374): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(386): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(387): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(398): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(399): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(410): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\game.cpp(411): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameOver.cpp
+  Menu.cpp
+  PowerUps.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(94): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\powerups.cpp(95): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(55): warning C4305: '=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(91): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\player.cpp(92): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  RectObject.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(190): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(201): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(208): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(214): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(219): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(228): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(231): warning C4305: '-=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(240): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\rectobject.cpp(241): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  TriangleObject.cpp
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(106): warning C4305: '+=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(109): warning C4305: '-=': truncation from 'double' to 'float'
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(118): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\first year\games portfolio 1\2d game\weeks\week 28\main\main\triangleobject.cpp(119): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Tutorial.cpp
+  Generating Code...
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
